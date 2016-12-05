@@ -14,9 +14,9 @@
   "author": "Eric Chan <echan@ideo.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/IDEO-coLAB/nomad-sensor-hello/issues"
+    "url": "https://github.com/The-Chanman/nomad-node-exploratorium-embarcadero-side-beacon/issues"
   },
-  "homepage": "https://github.com/IDEO-coLAB/nomad-sensor-hello#readme",
+  "homepage": "https://github.com/The-Chanman/nomad-node-exploratorium-embarcadero-side-beacon#readme",
   "dependencies": {
     "moment": "^2.16.0",
     "node-fetch": "^1.6.3",
